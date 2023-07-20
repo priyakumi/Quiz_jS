@@ -1,0 +1,125 @@
+:root {
+    --purple: purple;
+    --white: #ffffff;
+  }
+  
+        
+        #container {
+            position: absolute;
+            left: 30%;
+            top: 20%;
+            width: 400px;
+            height: 400px;
+            background-color: beige;
+            border: 3px solid purple;
+        }
+
+        a{
+            text-decoration: none;
+            font-size: 20px;
+            font-family: sans-serif;
+            color: var(--purple);;
+        }
+        a :hover{
+            
+            cursor: pointer;
+        }
+        body{
+
+            background-color: blanchedalmond;
+            font-family: sans-serif;
+        }
+            
+        
+
+        #start {
+            background-color: var(--purple);
+            margin-left: 33%;
+            padding: 11px 32px;
+            font-size: 15px;
+            color: var(--white);
+        }
+
+        #questions {
+            margin: 20px;
+        }
+
+        #ctime {
+            float: right;
+        }
+
+        #gohome {
+            background-color: var(--purple);
+            position: relative;
+            padding: 10px;
+            font-size: 15px;
+            color: var(--white);
+            top: 30%;
+            left: 67%;
+            width: auto;
+            text-align: center;
+            text-decoration: none;
+           
+        }
+
+        #clear {
+            background-color: var(--purple);
+            position: relative;
+            padding: 10px;
+            font-size: 15px;
+            color: var(--white);
+            top: 30%;
+            right: 5%;
+            text-align: center;
+            
+        }
+
+        button {
+            cursor: pointer;
+        }
+      
+        textarea {
+            width: 90%;
+            margin: 20px;
+        }
+
+        #submit {
+            background-color: var(--purple);
+            margin-left: 33%;
+            padding: 15px 32px;
+            font-size: 15px;
+            color: var(--white);
+        }
+
+        label {
+            margin-right: 10px;
+        }
+        input {
+            margin-bottom: 20px;
+            width: 50%;
+            border: 2px solid lightgray;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        li {
+        
+            background-color: var(--purple);
+            margin-top: 10px;
+            padding: 5px 15px;
+            width: 80%;
+            font-size: 15px;
+            color: var(--white);
+        }
+
+        #creatediv {
+            margin-top: 20px;
+            border-top: 1px solid lightgray;
+        }
+
+        
+        
+   
+   
