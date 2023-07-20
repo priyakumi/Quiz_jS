@@ -22,8 +22,12 @@ THEN I can save my initials and score and remaining time left on the quiz timer
 github page:
 ============
 
+https://github.com/priyakumi/Quiz_jS
+
 deployed page:
 ==============
+
+ https://priyakumi.github.io/Quiz_jS/
 
 screen shot:
 ============
